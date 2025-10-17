@@ -8,7 +8,7 @@ const App = () => {
     <QueryClientProvider client={queryClient}>
       <div>
         <Movies />
-        <MovieForm />
+        
       </div>
     </QueryClientProvider>
   );
